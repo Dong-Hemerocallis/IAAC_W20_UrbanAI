@@ -1,8 +1,6 @@
 # Welcome to the code repository for the IAAC W20_Urban AI workshop.
 On this page you can find code that will allow you to explore 2D neural style transfer. This editing techniques must be run on graphics processing units (GPUs) in order to run or train efficiently and in a reasonable time frame. Thus, this repository is designed to run on Paperspace, which is a cloud computing platform that allows you to access GPUs.
 
-# IAAC 2020 Urban AI Models
-
 ## Content
 1. [2D Neural Style Transfer](#neuralstyle)
 
